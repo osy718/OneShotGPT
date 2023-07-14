@@ -1,4 +1,3 @@
-pip install --upgrade pip
 
 import scraper as sc
 import report as rp
